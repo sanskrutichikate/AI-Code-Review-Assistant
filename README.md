@@ -53,7 +53,7 @@ An AI-powered web application that helps developers improve code quality by comb
 - Express.js
 
 ## Database
-- PostgreSQL
+- Supabase
 
 ## Authentication
 - JSON Web Token (JWT)
